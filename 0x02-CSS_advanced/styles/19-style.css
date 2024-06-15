@@ -385,6 +385,7 @@
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 3rem 0;
     --nav-item-link-hover: var(--color-primary);
+    --root-padding: 1rem;
 }
 
 *, *:before, *:after {
